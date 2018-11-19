@@ -4,15 +4,15 @@ My simple config files excluding very personal setups. This is not intended to b
 cloned, but a backup for my future bsd installations. I try to be very minimalist and
 coherent to the unix philosophy.
 
-## Softwares use
-* Vim
+## Softwares used
+### Vim
 My vim config set.
 
-* Terminator
+### Terminator
 My messy terminator configuration.
 
-* i3
+### i3
 The default i3 with very little addings.
 
-* Fish
+### Fish
 Modified for obviously privacy.
